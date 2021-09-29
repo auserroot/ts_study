@@ -1,6 +1,7 @@
 /**
  * ts demo
  * type of easy data
+ * use tsc add filname to analysis
  */
 
 // any
